@@ -1,0 +1,43 @@
+#section2
+{
+    background-image: url("img/23.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+}
+h4
+    {
+        margin-bottom: 50px;
+        
+        font-weight: 800;
+        font-size: 24px;
+        
+    }
+    input
+    {
+      margin-bottom: 30px;
+      width: 100%;
+     
+    }
+    button
+    {
+        margin-top: 20px;
+        background-color: brown;
+        font-size: 20px;
+        font-weight: 500;
+    }
+   
+    textarea
+    {
+        width: 100%;
+        
+    }
+    #section10 
+    {
+        padding: 70px;
+    }
+    .news
+    {
+        font-size: 20px;
+        font-weight: 500;
+    }

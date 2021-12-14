@@ -1,0 +1,22 @@
+#section2
+{
+    background-image: url("img/21.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+}
+#section2 h2
+{
+    font-size: 40px;
+    color: white;
+    padding-top: 20px;
+}
+#section2 p
+{
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+#section9 .section7box
+{
+    margin-top: 50px;
+}
