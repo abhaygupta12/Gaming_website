@@ -317,7 +317,7 @@ color: white;
     }
     #check:checked ~ul
     {
-        right: 0px;
+        left: 0px;
     }
     
     nav .button
